@@ -1,0 +1,26 @@
+
+
+header{
+color: rgb(249, 127, 255);
+background-color: #1b998b;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+.centered {
+    text-align: center;
+
+}
+
+.intro {
+    max-width: 500px;
+    text-align: center;
+    
+}
+
+footer{
+    color: rgb(243, 4, 4);
+    background-color: #CBF6E9
+}
